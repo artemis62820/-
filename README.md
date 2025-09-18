@@ -10,3 +10,5 @@ Dans tout projet réseau, la table d’adressage est un élément essentiel.
 * 💡 Sans une table d’adressage claire et bien structurée, un réseau devient vite ingérable : conflits d’adresses, pannes, pertes de connectivité…
 
 > En résumé : 𝐥𝐚 𝐭𝐚𝐛𝐥𝐞 𝐝’𝐚𝐝𝐫𝐞𝐬𝐬𝐚𝐠𝐞, 𝐜’𝐞𝐬𝐭 𝐥𝐚 𝐛𝐨𝐮𝐬𝐬𝐨𝐥𝐞 𝐪𝐮𝐢 𝐠𝐮𝐢𝐝𝐞 𝐥’𝐚𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐞𝐮𝐫 𝐫𝐞́𝐬𝐞𝐚𝐮 𝐞𝐭 𝐚𝐬𝐬𝐮𝐫𝐞 𝐥𝐚 𝐜𝐨𝐡𝐞́𝐫𝐞𝐧𝐜𝐞 𝐝𝐞 𝐥’𝐢𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞.
+>
+> ![1](https://github.com/user-attachments/assets/869329bd-fd12-42f4-9983-f4ae346e0bd0)
